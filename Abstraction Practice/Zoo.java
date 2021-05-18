@@ -10,8 +10,7 @@ public class Zoo {
                 new Monkey("Nick", 5),
                 new Monkey("Zeke", 7)
 
-                // TODO define two more animal classes
-                // TODO create instances thereof here
+               
         };
 
         System.out.println("Roll call");
