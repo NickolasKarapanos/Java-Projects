@@ -1,4 +1,3 @@
-package edu.luc.cs.cs271.mazesolver;
 
 import java.util.ArrayList;
 import java.util.Scanner;
