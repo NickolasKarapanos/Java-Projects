@@ -1,5 +1,3 @@
-package edu.luc.cs271.arrayqueue;
-
 import java.util.Scanner;
 
 public class SingleQueueService {
