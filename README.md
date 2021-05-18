@@ -11,4 +11,7 @@
  -This is a Stacked based Maze solver which reads from the standard input, the maze data in the form of same-length strings representing rows in the maze.It then attempts to find a way out of the maze from the starting point. Finally, it prints the maze showing our starting point, visited areas and reports back if it found a way out.
 
 [Recursion/Recursive backtracking/parametric thinking Practice](https://github.com/NickolasKarapanos/Java-Projects/tree/main/RecursiveMaze)
- -Project developed a maze solver using recursive backtracking. The maze solver behaves as our queue based solver only using recursion methods. 
+ -Project developed a maze solver using recursive backtracking. The maze solver behaves as our queue based solver only using recursion methods.
+ 
+ [IndefiniteLoops/Array-Based Lists/Junit Testing](https://github.com/NickolasKarapanos/Java-Projects/tree/main/IndefiniteLoops)
+  -Designed and implemened a program that reads a list of floating-point numbers from the standard input, representing daily rainfall amounts in millimeters as entered by a user. Ignore negative values, but include zero values. Produces total number of (nonnegative) values read, average rainfall, cumulative rainfall, number of rainy days, number of dry days.  
