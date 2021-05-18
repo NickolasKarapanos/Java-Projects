@@ -1,5 +1,3 @@
-package edu.luc.cs.cs271.mazesolver;
-
 
 import java.io.PrintStream;
 import java.util.Collections;
@@ -28,7 +26,7 @@ public class Maze {
    */
   public Maze(final List<String> rawData) {
 
-    this(rawData.toArray(new String[0]));  //what??
+    this(rawData.toArray(new String[0]));  
   }
 
 
@@ -56,11 +54,9 @@ public class Maze {
          //^populate char array from raw data, checking consistent width in the process
        }
      }
-    /* initialize char array
-    mazeData = null;*/
+ 
 
-
-    // populate char array from raw data, checking consistent width in the process
+  
 
   }
 
@@ -184,22 +180,7 @@ public class Maze {
     return false;
   }//end of solve
 
-  /*public boolean isDeadEnd (Position pos){
-    if (mazeData[pos.row + 1][pos.col] == VISITED) { //||DEADEND){ // this is down one from pos (r0w+1)
-      queue.add(new Position(pos.row + 1, pos.col)); // add this location to que stack thing
-      mazeData[pos.row + 1][pos.col] = DEADEND;
-    } else if (mazeData[pos.row][pos.col + 1] == VISITED) { // this is right one from pos (col+1)
-      queue.add(new Position(pos.row, pos.col + 1)); // add this location to que stack thing
-      mazeData[pos.row][pos.col + 1] = DEADEND;
-    } else if (mazeData[pos.row - 1][pos.col] == VISITED) { // this is up one from pos (r0w-1)
-      queue.add(new Position(pos.row - 1, pos.col)); // add this location to que stack thing
-      mazeData[pos.row - 1][pos.col] = DEADEND;
-    } else if (mazeData[pos.row][pos.col - 1] == VISITED) { // this is left one from pos (col-1)
-      queue.add(new Position(pos.row, pos.col - 1)); // add this location to que stack thing
-      mazeData[pos.row][pos.col - 1] = DEADEND;
-  }*/
-
-
+  
 
 
 
