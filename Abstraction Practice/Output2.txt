@@ -1,0 +1,26 @@
+Roll call
+This is Elephant Huey weighing 505.2 kg
+This is Elephant Dewey weighing 612.9 kg
+This is Tiger Tony weighing 250.0 kg
+This is Tiger Paul weighing 305.0 kg
+This is Monkey Nick weighing 5.0 kg
+This is Monkey Zeke weighing 7.0 kg
+Ready for feeding
+Today we used 142.56 kg of food
+Ready to check weight
+This is Elephant Huey weighing 555.72 kg
+This is Elephant Dewey weighing 674.19 kg
+This is Tiger Tony weighing 262.5 kg
+This is Tiger Paul weighing 320.25 kg
+This is Monkey Nick weighing 6.25 kg
+This is Monkey Zeke weighing 8.75 kg
+Ready to work out
+Ready to check weight
+This is Elephant Huey weighing 505.2 kg
+This is Elephant Dewey weighing 612.9 kg
+This is Tiger Tony weighing 250.0 kg
+This is Tiger Paul weighing 305.0 kg
+This is Monkey Nick weighing 5.0 kg
+This is Monkey Zeke weighing 7.0 kg
+
+Process finished with exit code 0
